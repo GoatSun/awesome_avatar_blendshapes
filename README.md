@@ -6,9 +6,9 @@
 - [Weights from mediapipe](#weight)
 
 ## weight
-- [Mediapipe landmarks to weights: MediapipeFaceMocap](https://github.com/JimWest/MeFaMo/)
-- [Mediapipe landmarks to weights: KalidoKit](https://github.com/yeemachine/kalidokit/)
-- [AI model to get weights: mocap4face](https://github.com/facemoji/mocap4face)
-- [AI model to get weights: AvatarWebKit](https://github.com/Hallway-Inc/AvatarWebKit)
-- [NVIDIA MAXINE](https://github.com/NVIDIA/MAXINE-AR-SDK)
+- [MediapipeFaceMocap (Base on Mediapipe landmarks)](https://github.com/JimWest/MeFaMo/)
+- [KalidoKit (Base on Mediapipe landmarks)](https://github.com/yeemachine/kalidokit/)
+- [Mocap4face (AI Model)](https://github.com/facemoji/mocap4face)
+- [AvatarWebKit (AI Model)](https://github.com/Hallway-Inc/AvatarWebKit)
+- [MAXINE AR SDK (NVIDIA)](https://github.com/NVIDIA/MAXINE-AR-SDK)
 - [Google Mediapipe](https://developers.google.com/mediapipe/solutions/vision/face_landmarker)
